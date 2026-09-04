@@ -1,15 +1,16 @@
-<h1 style='align: center'>Olá, sou o Marx Alexander 👋</h1>
-
-<p style='align: center'>Estudante de Desenvolvedor de Sistemas Back-End</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&duration=2500&pause=1000&color=6700CF&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Marx+Alexander%F0%9F%91%8B;Desenvolver+Back-End+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 ###
 
-   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/-marxalexander/)
-   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/marx40)
+<p align="center">
+  <a href=https://www.linkedin.com/in/-marxalexander/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://github.com/marx40><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
-
-BR Fortaleza, Ceará
+<p align="center">
+   BR Fortaleza, Ceará
+</p>
 
 <h1>Sobre mim</h1>
 <!--

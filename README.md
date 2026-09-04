@@ -2,7 +2,11 @@
 
 <p style='align: center'>Estudante de Desenvolvedor de Sistemas Back-End</p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/-marxalexander)
+###
+
+   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/-marxalexander/)
+
+---
 
 BR Fortaleza, Ceará
 

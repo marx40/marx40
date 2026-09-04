@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá, sou o Marx Alexander 👋
 
+Estudante de Desenvolvedor de Sistemas Back-End 
 <!--
 **marx40/marx40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

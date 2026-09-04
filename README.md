@@ -1,8 +1,12 @@
-##Olá, sou o Marx Alexander 👋
+<h1 style='align: center'>Olá, sou o Marx Alexander 👋</h1>
 
-Estudante de Desenvolvedor de Sistemas Back-End 
+<p style='align: center'>Estudante de Desenvolvedor de Sistemas Back-End</p>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/-marxalexander)
 
 BR Fortaleza, Ceará
+
+<h1>Sobre mim</h1>
 <!--
 **marx40/marx40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

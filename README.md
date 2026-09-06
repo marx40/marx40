@@ -11,8 +11,29 @@
    BR Fortaleza, Ceará
 </p>
 
+---
+
 ## Sobre mim
 
 ```typescript
+const desenvolvedor = {
+  local: "🇧🇷Brazil, CE - Fortaleza",
+  cargo: "Desenvolvedor Back-End",
+  formação: "Técnico em Desenvolvimento de Sistema - EEEP Mário Alencar"
+  foco: [
+    "Arquiteturas de Banco de Dados",
+    "Automoção de Tarefas"
+  ],
+};
+```
 
-const sesenvolvedor
+---
+
+## Linguagens & Ferramentas
+
+<div>
+  <table>
+    <tr><td>
+      <b>Back-End</b>
+  </table>
+</div>

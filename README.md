@@ -34,7 +34,7 @@ const desenvolvedor = {
 <div>
   <table>
     <tr><td>
+
       <b>Back-End</b>
-      <b>Front-End</b>
   </table>
 </div>

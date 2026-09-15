@@ -31,10 +31,31 @@ const desenvolvedor = {
 
 ## Linguagens & Ferramentas
 
-<div>
-  <table>
-    <tr><td>
 
-      <b>Back-End</b>
-  </table>
+<div align="center">
+  <table>
+    <tr><td align="center">
+
+<b>Back-end</b>
+
+</td></tr>
+  <tr><td align="center">
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    
+  </td></tr>
+  <tr><td align="center">
+
+  <b>Front-End</b>
+
+  </td></tr>
+<tr><td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/7c42f793-4cf8-4d78-95a3-1fb2d86abfc5" title="Git" alt="Git" width="40" height="40"/>
+
+</td></tr>
+</table>
 </div>

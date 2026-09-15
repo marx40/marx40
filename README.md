@@ -21,8 +21,8 @@ const desenvolvedor = {
   cargo: "Desenvolvedor Back-End",
   formação: "Técnico em Desenvolvimento de Sistema - EEEP Mário Alencar"
   foco: [
-    "Arquiteturas de Banco de Dados",
-    "Automoção de Tarefas"
+    "Arquitetura de Banco de Dados",
+    "Automação de Tarefas"
   ],
 };
 ```
@@ -35,5 +35,6 @@ const desenvolvedor = {
   <table>
     <tr><td>
       <b>Back-End</b>
+      <b>Front-End</b>
   </table>
 </div>
